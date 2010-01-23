@@ -1,7 +1,7 @@
 === Shari Share Me ===
 Contributors: phkcorp2005
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9674139
-Tags: shari phk corporation any-to-any share social
+Tags: shari phk any digg yahoo msn live facebook stumble technorati reddit newsvine any-to-any share social
 Requires at least: 2.9
 Tested up to: 2.9
 Stable tag: 1.0
@@ -29,7 +29,7 @@ To instal this plugin, follow these steps:
 
 1. Download the plugin shari-share-me.zip
 2. Extract the single file shari.php
-3. Extract mavis plugin to the `/wp-content/plugins/` directory as new directory will be created identified as 'mavis-https-to-http-redirect'
+3. Extract mavis plugin to the `/wp-content/plugins/` directory as new directory will be created identified as 'shari-share-me'
 4. Activate the plugin through the 'Plugins' menu in WordPress, identified by 'Shari Share Me'
 5. Insert the shortcode [shari] on the pages/posts that you want to enable social network sharing.
 
@@ -48,7 +48,7 @@ Please do not be afraid of asking questions?<br>
 
 == Credits ==
 
-We make honorable mention to anyone who helps make Mavis HTTPS to HTTP Redirect a better plugin!
+We make honorable mention to anyone who helps make Shari Share Me a better plugin!
 
 == Contact ==
 
