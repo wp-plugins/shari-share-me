@@ -25,11 +25,11 @@ The social networks offered include: Digg, Yahoo!, MSN Live, Facebook, Stumble, 
 
 == Installation ==
 
-To instal this plugin, follow these steps:
+To install this plugin, follow these steps:
 
 1. Download the plugin shari-share-me.zip
 2. Extract the single file shari.php
-3. Extract mavis plugin to the `/wp-content/plugins/` directory as new directory will be created identified as 'shari-share-me'
+3. Extract plugin to the `/wp-content/plugins/` directory as new directory will be created identified as 'shari-share-me'
 4. Activate the plugin through the 'Plugins' menu in WordPress, identified by 'Shari Share Me'
 5. Insert the shortcode [shari] on the pages/posts that you want to enable social network sharing.
 
