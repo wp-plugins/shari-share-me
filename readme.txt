@@ -52,4 +52,6 @@ We make honorable mention to anyone who helps make Shari Share Me a better plugi
 
 == Contact ==
 
+For support, go to http://support.phkcorp.com and request to join "Shari Share Me" forum.
+
 Please contact phkcorp2005@gmail.com or visit www.phkcorp.com?do=wordpress with questions, comments, or requests.
