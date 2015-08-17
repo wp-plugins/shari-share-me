@@ -1,4 +1,6 @@
-=== Shari Share Me ===
+# Shari Share Me 
+The official development branch for the wordpress plugin located at https://wordpress.org/plugins/shari-share-me
+
 Contributors: phkcorp2005
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9674139
 Tags: shari phk any digg yahoo msn live facebook stumble technorati reddit newsvine any-to-any share social
@@ -9,7 +11,7 @@ Stable tag: 1.0.1
 Provides selective social network sharing of pages by using shortcodes. Add page sharing only to the pages 
 you want!
 
-== Description ==
+# Description 
 
 Social network sharing is great site traffic builder but when the social network icons do not show properly
 on the page to be shared, for example, when you are in a secured session like any-to-any, this can be distracting
@@ -23,7 +25,7 @@ offer contributions), she may change her mind?
 
 The social networks offered include: Digg, Yahoo!, MSN Live, Facebook, Stumble, Technorati, Reddit and Newsvine
 
-== Installation ==
+# Installation 
 
 To install this plugin, follow these steps:
 
@@ -33,27 +35,27 @@ To install this plugin, follow these steps:
 4. Activate the plugin through the 'Plugins' menu in WordPress, identified by 'Shari Share Me'
 5. Insert the shortcode [shari] on the pages/posts that you want to enable social network sharing.
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions 
 
 Please do not be afraid of asking questions?<br>
 
 (There are no stupid or dumb questions!)
 
 
-== Changelog ==
+# Changelog 
 = 1.0.1 =
 * Updates for WP 4.3
 
 = 1.0 =
 * Created
 
-== Upgrade Notice ==
+# Upgrade Notice 
 
-== Credits ==
+# Credits 
 
 We make honorable mention to anyone who helps make Shari Share Me a better plugin!
 
-== Contact ==
+# Contact 
 
 Support is provided at https://github.com/patrickingle/shari-share-me/issues. You will require a free account on github.com
 
